@@ -46,6 +46,8 @@ ms
 
 util
 
+![image](https://github.com/Bhargav230m/Discord.js-V14-Bot-Template/assets/100185728/69d86155-7dab-4bf1-95d7-85cd09f55dbc)
+
 Join my discord server - https://discord.gg/MgdgYmcUNb
 
 Support me on patreon - https://patreon.com/user?u=86322004
