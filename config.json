@@ -1,0 +1,15 @@
+{
+  "Handler": {
+    "global": false,
+    "guild_id": "Your Guild ID (Only required if global set to false)"
+  },
+  "Setup": {
+    "Token": "Bot Token",
+    "DataBase_URL": "MongoDB URL",
+    "Anti_Crash_System_Channel_ID": "Anti Crash sytem channel id"
+  },
+  "Permissions": {
+    "Owner_ID": "Bot Owners ID",
+    "Dev_ID": ["Devs ID", "Another devs id ?"]
+  }
+}
