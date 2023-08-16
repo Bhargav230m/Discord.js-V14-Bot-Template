@@ -45,3 +45,7 @@ colors
 ms
 
 util
+
+Join my discord server - https://discord.gg/MgdgYmcUNb
+
+Support me on patreon - https://patreon.com/user?u=86322004
